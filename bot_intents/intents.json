@@ -1,0 +1,128 @@
+{
+    "intents": [
+        {
+            "qecstion": "බබා, ඔබව සතුටු කරන්නේ කුමක් ද?",
+            "answer": "",
+            "reply": "බෝහම හොදයි බබා",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        },
+        {
+            "qecstion": "බබා, ඔයාට පුළුවන්ද මට හෝඩිය කියන්න",
+            "answer": "a b c d e f g h i j k l m n o p q r x y z",
+            "reply": "බෝහම හොදයි බබා, හරියටම කීවා",
+            "reply_negative_q": "බබා ට මම කියන්නද හරී උත්තරේ ?",
+            "reply_negative_a_reply": "A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z"
+        },
+        {
+            "qecstion": "බබා, ඔයාට  පුලුවන්ද එකේ ඉදන් දහයට ගනන් කරන්න ",
+            "answer": "1 2 3 4 5 6 7 8 9 10",
+            "reply": "බෝහම හොදයි බබා, හරියටම කීවා",
+            "reply_negative_q": "බබා ට මම කියන්නද හරී උත්තරේ ?",
+            "reply_negative_a_reply": " එක, දෙක, තුන, හතර, පහ, හය, හත, අට, නවය, දහය"
+        },
+        {
+            "qecstion": "බබා, ඔයාව  සතුටු කරන්නේ මොනවගේ දෙවල්ද ?",
+            "answer": "",
+            "reply": "බෝහම හොදයි බබා",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        }, {
+            "qecstion": "බබාට කියන්න පුලුවන්ද ? බබාට,  හොදටම පුලුවන් දෙවල්  මොනවාද කියලා",
+            "answer": "",
+            "reply": "බෝහම හොදයි බබා",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        }, {
+            "qecstion": "බබා ,ඔයා  කැමතිම  පාට මොකක්ද ? එවගේම ඔයාට කියන්න පුලුවන්ද  ඒ පාට  තියන දෙවල් මොනවාද කියලා ",
+            "answer": "",
+            "reply": "බෝහම හොදයි බබා",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        }, {
+            "qecstion": "බබා,  හෙට ඉස්කෝලෙට අදින්න හිතන් ඉන්නේ,  මොනවගේ අදූමක්ද",
+            "answer": "",
+            "reply": "බෝහම හොදයි බබා, ඒ ඇදුම ඔයාට ගොඩක් ලස්සනට තියෙයි",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        }, {
+            "qecstion": "බබා අද රෑට ඔයා දකින්න ආසා, මොනවගේ , සිහීනයක්ද ",
+            "answer": "",
+            "reply": "මම පාර්තනා කරනවා! බබාට, එ හීනේ දකින්න හම්බෙන්න කියලා",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        }, {
+            "qecstion": "බබා ඔයා කැමතී මොනවගේ ශබ්ද වලටද ?",
+            "answer": "",
+            "reply": "බෝහම හොදයි බබා, ඇත්තටම මම කැමතිම ශබ්දත් ඒවම තමා",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        }, {
+            "qecstion": "බබා ඔයා අද දවලට  ,මොනවද කෑවේ?",
+            "answer": "",
+            "reply": "බෝහම හොදයි බබා",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        }, {
+            "qecstion": "බබා, ඔයාගේ නම මොකක්ද  ",
+            "answer": "",
+            "reply": "ඒක ගොඩක් ලස්සන නමක්",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        }, {
+            "qecstion": " ඔයාට වයස කීයද බබා?",
+            "answer": "",
+            "reply": "ගොඩක් ලොකු ලමෙක්නෙහ්",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        }, {
+            "qecstion": "බබා අද දවල්,  විවේක කාලයේදී  කරපු සෙල්ලම් මොනවාද?,",
+            "answer": "",
+            "reply": "බෝහම හොදයි බබා",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        }, {
+            "qecstion": "බබා කැමතිම  චිත්‍රපටය මොකක්ද සහ එහි සිදු වූයේ කුමක්ද?",
+            "answer": "",
+            "reply": "බෝහම හොදයි බබා",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        }, {
+            "qecstion": "බබා ඔයාගේ පවුල ගැන මට කියන්න පුළුවන්ද?,",
+            "answer": "",
+            "reply": "බෝහම හොදයි බබා",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        }, {
+            "qecstion": "බබා ඔයාට සුරතල් සතුන් ඉන්නවද? නැත්තන් බබා ඇතී කරන්න්න කැමතී කැමති සුරතල් සතුන් ගැන මට කියන්න පුළුවන්ද?,",
+            "answer": "",
+            "reply": "බෝහම හොදයි බබා",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        }, {
+            "qecstion": "ඔබේ කැමතීම වීඩියෝ ක්‍රීඩා ගැන මට කියන්න පුළුවන්ද? ,",
+            "answer": "",
+            "reply": "බෝහම හොදයි බබා",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        }, {
+            "qecstion": " බබාට, කියන්න පුලුවන්ද  බබා දැනට, මේවෙනකන් දැකලා  තියන නපුරුම හිනේ ගැන ",
+            "answer": "",
+            "reply": "බබාට, කියන්න පුලුවන්ද  බබා දැනට, මේවෙනකන් දැකලා  තියන ලස්සනම හිනේ ගැන ",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        }, {
+            "qecstion": " බබා සෙල්ලම් කරන්න කැමතිම සෙල්ලම් බඩුව කුමක්ද ? නැත්නම් ඔබට තිබිය යුතු සෙල්ලම බඩුව මොකක්ද? ",
+            "answer": "",
+            "reply": "බෝහම හොදයි බබා",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        }, {
+            "qecstion": "බබා ඔයා ලොකු වුනාම මොනවද කරන්න කැමති ",
+            "answer": "",
+            "reply": "බෝහම හොදයි බබා",
+            "reply_negative_q": "",
+            "reply_negative_a_reply": ""
+        }
+    ]
+}
